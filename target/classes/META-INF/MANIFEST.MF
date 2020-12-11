@@ -1,0 +1,56 @@
+Manifest-Version: 1.0
+Build-Date: 2020-01-20
+Build-Revision: fdd2ef337f825954c37fefd18c6a4aa7f0050cb2
+Build-Time: 21:02:22.621+0100
+Built-By: JUnit Team
+Bundle-ManifestVersion: 2
+Bundle-Name: JUnit Jupiter Engine
+Bundle-SymbolicName: junit-jupiter-engine
+Bundle-Version: 5.6.0
+Created-By: 11.0.5 (AdoptOpenJDK 11.0.5+10)
+Export-Package: org.junit.jupiter.engine;version="5.6.0";status=STABLE
+ ;uses:="org.junit.jupiter.engine.execution,org.junit.platform.engine,
+ org.junit.platform.engine.support.hierarchical",org.junit.jupiter.eng
+ ine.config;version="5.6.0";status=INTERNAL;mandatory:=status;uses:="o
+ rg.junit.jupiter.api,org.junit.jupiter.api.extension,org.junit.jupite
+ r.api.parallel,org.junit.platform.engine",org.junit.jupiter.engine.de
+ scriptor;version="5.6.0";status=INTERNAL;mandatory:=status;uses:="org
+ .junit.jupiter.api,org.junit.jupiter.api.extension,org.junit.jupiter.
+ api.parallel,org.junit.jupiter.engine.config,org.junit.jupiter.engine
+ .execution,org.junit.jupiter.engine.extension,org.junit.platform.engi
+ ne,org.junit.platform.engine.support.descriptor,org.junit.platform.en
+ gine.support.hierarchical",org.junit.jupiter.engine.discovery;version
+ ="5.6.0";status=INTERNAL;mandatory:=status;uses:="org.junit.jupiter.e
+ ngine.descriptor,org.junit.platform.engine",org.junit.jupiter.engine.
+ discovery.predicates;version="5.6.0";status=INTERNAL;mandatory:=statu
+ s,org.junit.jupiter.engine.execution;version="5.6.0";status=INTERNAL;
+ mandatory:=status;uses:="org.junit.jupiter.api.extension,org.junit.ju
+ piter.engine.config,org.junit.jupiter.engine.extension,org.junit.plat
+ form.engine,org.junit.platform.engine.support.hierarchical",org.junit
+ .jupiter.engine.extension;version="5.6.0";status=INTERNAL;mandatory:=
+ status;uses:="org.junit.jupiter.api.extension,org.junit.jupiter.engin
+ e.config",org.junit.jupiter.engine.support;version="5.6.0";status=INT
+ ERNAL;mandatory:=status;uses:="org.junit.platform.engine.support.hier
+ archical"
+Implementation-Title: junit-jupiter-engine
+Implementation-Vendor: junit.org
+Implementation-Version: 5.6.0
+Import-Package: org.junit.platform.commons.logging;status=INTERNAL;ver
+ sion="[1.6,2)",org.junit.jupiter.api;version="[5.6,6)",org.junit.jupi
+ ter.api.extension;version="[5.6,6)",org.junit.jupiter.api.function;ve
+ rsion="[5.6,6)",org.junit.jupiter.api.io;version="[5.6,6)",org.junit.
+ jupiter.api.parallel;version="[5.6,6)",org.junit.platform.commons;ver
+ sion="[1.6,2)",org.junit.platform.commons.function;version="[1.6,2)",
+ org.junit.platform.commons.support;version="[1.6,2)",org.junit.platfo
+ rm.commons.util;version="[1.6,2)",org.junit.platform.engine;version="
+ [1.6,2)",org.junit.platform.engine.discovery;version="[1.6,2)",org.ju
+ nit.platform.engine.reporting;version="[1.6,2)",org.junit.platform.en
+ gine.support.config;version="[1.6,2)",org.junit.platform.engine.suppo
+ rt.descriptor;version="[1.6,2)",org.junit.platform.engine.support.dis
+ covery;version="[1.6,2)",org.junit.platform.engine.support.hierarchic
+ al;version="[1.6,2)",org.opentest4j;version="[1.2,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Specification-Title: junit-jupiter-engine
+Specification-Vendor: junit.org
+Specification-Version: 5.6.0
+

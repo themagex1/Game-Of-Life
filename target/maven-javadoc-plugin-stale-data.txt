@@ -1,0 +1,19 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_261\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\allclasses-frame.html = 1607609418271
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\allclasses-noframe.html = 1607609418273
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\argfile = 1607609417285
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\constant-values.html = 1607609418182
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\deprecated-list.html = 1607609418269
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\help-doc.html = 1607609418285
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\index-all.html = 1607609418264
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\index.html = 1607609418274
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\options = 1607609417284
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\overview-frame.html = 1607609418150
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\overview-summary.html = 1607609418282
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\overview-tree.html = 1607609418238
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\package-list = 1607609418144
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\script.js = 1607609418289
+C:\Users\damia\OneDrive\Pulpit\game-of-life\target\apidocs\stylesheet.css = 1607609418288
